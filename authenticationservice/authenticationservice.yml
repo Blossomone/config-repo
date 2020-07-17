@@ -1,7 +1,7 @@
 spring.jpa.database: "MYSQL"
 spring.jpa.show-sql: "true"
 spring.database.driverClassName: "com.mysql.cj.jdbc.Driver"
-spring.datasource.url: "jdbc:mysql://localhost:3306/eagle_eye_local"
+spring.datasource.url: "jdbc:mysql://localhost:3306/serverTimezone=UTC/eagle_eye_local"
 spring.datasource.driver-class-name: "com.mysql.cj.jdbc.Driver"
 spring.datasource.username: "root"
 spring.datasource.password: "{cipher}f12f0e3d3add98d6c30380d54f6c726edbfcacee57a1461c04b078ab2be57fe5"
